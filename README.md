@@ -9,5 +9,4 @@ Check out my [LinkedIn](https://www.linkedin.com/in/cl%C3%A0udia-salgado-rodr%C3
 
 Reach me at: [clsaro1@edem.es](clsaro1@edem.es)
 
-### No sé
 <img src="https://i.pinimg.com/originals/1d/e0/75/1de0753b3d92168dedfd375d1295992e.gif" height="90"/>
