@@ -2,7 +2,7 @@
 <h3 align="center">AI & Machine Learning Engineer · Aerospace Engineer</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/clàudia-salgado-rodríguez-0a182b276"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/cl%C3%A0udia-salgado-rodr%C3%ADguez-0a182b276"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:clau.salgado.2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
